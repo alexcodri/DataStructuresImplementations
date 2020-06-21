@@ -1,0 +1,10 @@
+A12RT,Str. Domneasca nr. 7,5,12,7
+BMPN1,Str. Frunzei nr. 8,6,14,5
+C5ERT,Str. Lebedei nr. 9, 7,18,3
+ERD34,Str. Oborul Nou nr. 10,3,19,5
+OPRS1,Str. Mihai Bravu nr. 11,4,19,7
+OPSJE,Str. Otelari nr. 12,5,20,5
+QWERT,Str. Calusei nr. 13,6,21,5
+TRYR3,Str. Oltului nr. 14,7,15,6
+A145A,Str. Chimiei nr. 15,8,16,7
+B345T,Str. Biologiei nr. 16,9,17,1

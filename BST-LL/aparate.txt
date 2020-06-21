@@ -1,0 +1,10 @@
+1, 150.12,Aparat1, Data1
+2, 250.12,Aparat2, Data2
+3, 350.12,Aparat3, Data3
+4, 450.12,Aparat4, Data4
+5, 550.12,Aparat5, Data5
+6, 50.12,Aparat6, Data6
+7, 750.12,Aparat7, Data7
+8, 850.12,Aparat8, Data8
+9, 950.12,Aparat9, Data9
+10, 1050.12,Aparat10, Data10

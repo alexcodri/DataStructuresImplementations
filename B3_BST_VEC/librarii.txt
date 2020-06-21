@@ -1,0 +1,10 @@
+Denumire1, Lcheie, 20
+Denumire2, Ocheie, 720
+Denumire3, Mcheie, 180
+Denumire4, Zcheie, 200
+Denumire5, Bcheie, 890
+Denumire6, Acheie, 5420
+Denumire7, Tcheie, 1000
+Denumire8, Rcheie, 888
+Denumire9, Wcheie, 1234
+Denumire10, Qcheie, 222

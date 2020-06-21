@@ -1,0 +1,10 @@
+1, Descriere1, NumeEchipa1, 12, 7
+2, Descriere2, NumeEchipa2, 10, 5
+3, Descriere3, NumeEchipa3, 14, 4
+4, Descriere4, NumeEchipa4, 15, 3
+5, Descriere5, NumeEchipa5, 7, 6
+6, Descriere6, NumeEchipa6, 6, 5
+7, Descriere7, NumeEchipa7, 21, 8
+8, Descriere8, NumeEchipa8, 13, 9
+9, Descriere9, NumeEchipa9, 3, 7
+10, Descriere10, NumeEchipa10, 5, 5
